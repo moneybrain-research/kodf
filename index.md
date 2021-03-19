@@ -13,10 +13,10 @@ This project is supervised by Ministry of Science and ICT (MSIT) and supported b
 # Citation 
 
 ```plain
-@article{korean2021deepfakedataset,
-  title={KoDF: A Large-scale Korean DeepFake Detection Dataset},
-  author={Patrick Kwon, Jaeseong You, Gyuhyeon Nam, Sungwoo Park, Gyeongsu Chae},
-  journal={arXiv preprint arXiv:2103.10094},
-  year={2021}
+@article{kwon2021,
+  title = {KoDF: A Large-scale Korean DeepFake Detection Dataset},
+  author = {Patrick Kwon, Jaeseong You, Gyuhyeon Nam, Sungwoo Park, Gyeongsu Chae},
+  journal = {arXiv preprint arXiv:2103.10094},
+  year = {2021}
 }
 ```
